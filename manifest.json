@@ -7,7 +7,7 @@
  
   "content_scripts": [{
     "js": ["scan.js"],
-    "matches": ["*"]
+    "matches": ["<all_urls>"]
   }]
  
 }
